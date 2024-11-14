@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('image/Thresh.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.intersect {
+    position: absolute;
+    width: 253px;
+    height: 253px;
+    left: 1420px;
+    top: 38px;
+    background: url('image/Intersect.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
